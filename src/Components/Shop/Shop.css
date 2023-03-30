@@ -6,9 +6,8 @@
 .product-container{
     display: grid;
     grid-template-columns:repeat(3, 1fr);
-   
    width: 70%;
-   margin: auto;
+   margin: 0px 30px;
    margin-top: 30px;
    
   

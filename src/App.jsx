@@ -14,8 +14,9 @@ function App() {
        <Header></Header>
        <Shop></Shop>
        <product></product>
+      
     </div>
   )
 }
-
+// handleAddToCart={handleAddToCart}
 export default App
